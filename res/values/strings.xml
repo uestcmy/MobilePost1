@@ -5,6 +5,9 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="hello_Taipei">Hello Taipei!</string>
-    
+    <string name="button1">Click it</string>
+    <string name="toInput">This is input module:)</string>
+    <string name="id">身份证号</string>
+    <string name="mobile">电话号码</string>
 
 </resources>
